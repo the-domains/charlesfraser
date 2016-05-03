@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[charlesfraser]]></title>
+        <description><![CDATA[charlesfraser]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 03 May 2016 08:40:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/93fd58cb-fe2c-4dcd-8445-0066944b726c.jpg">]]></description>
+            <link>undefinedhi-my-name-is-charlie-fraser-and-this-is-my-blog-about-tryin/index.html</link>
+            <guid isPermaLink="false">35797cc1-69ff-4f06-8808-f1f88077a7db</guid>
+            <pubDate>Tue, 03 May 2016 08:40:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
