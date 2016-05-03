@@ -1,7 +1,7 @@
 name: charlesfraser
 favicon: null
-layout_spectrum: 0.6134327840991318
-typography_spectrum: 0.08032381697557867
+layout_spectrum: 0.01322
+typography_spectrum: 0.49361
 title: "Charles Fraser's blog"
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#547AB1'
     - '#CEAFC0'
   brandStrength: 0.379213530337438
-  lightness: 0.204116468783468
+  lightness: 0.25
   saturation: 0.05549662932753563
   rhythmicContrast: 0.6529296345543116
 purpose: []
