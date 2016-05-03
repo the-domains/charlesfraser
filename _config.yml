@@ -1,6 +1,6 @@
 name: charlesfraser
 favicon: null
-layout_spectrum: 0.01322
+layout_spectrum: 0.28345
 typography_spectrum: 0.49361
 title: "Charles Fraser's blog"
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.379213530337438
+    - '#fefff9'
+    - '#020202'
+    - '#35342f'
+    - '#d2c6c8'
+    - '#73861b'
+  brandStrength: 0.1875
   lightness: 0.25
-  saturation: 0.05549662932753563
+  saturation: 0.1875
   rhythmicContrast: 0.6529296345543116
 purpose: []
