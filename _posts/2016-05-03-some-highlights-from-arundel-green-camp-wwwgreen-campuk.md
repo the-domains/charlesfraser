@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Some highlights from Arundel Green Camp www.Green-Camp.uk
-datePublished: '2016-05-03T08:54:01.529Z'
-dateModified: '2016-05-03T08:31:53.142Z'
+datePublished: '2016-05-03T10:30:47.356Z'
+dateModified: '2016-05-03T10:30:12.748Z'
 title: ''
 author: []
 authors: []
@@ -15,9 +15,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-03-some-highlights-from-arundel-green-camp-wwwgreen-campuk.md
 published: true
+starred: true
 url: some-highlights-from-arundel-green-camp-wwwgreen-campuk/index.html
 _type: Article
 
