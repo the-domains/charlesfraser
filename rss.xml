@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[charlesfraser]]></title>
-        <description><![CDATA[charlesfraser]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Charles Fraser's blog]]></title>
+        <description><![CDATA[Charles Fraser's blog]]></description>
+        <link>https://thegrid.ai/charlesfraser/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 08:40:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 May 2016 08:50:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/charlesfraser/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[These documents could kill TTIP]]></title>
+            <description><![CDATA[<article><h1>These documents could kill TTIP</h1><p>Hundreds of leaked pages from the controversial Transatlantic Trade and Investment Partnership (TTIP) show that the deal could be about to collapse, according to campaigners.&#13; &#13; The huge leak - which gives the first full insight into the negotiations - shows that the relationship between Europe and the US are stronger than had been thought and that major divisions remain on some of the agreement's most central provisions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f2988008ba0393fc162c41466fd4e366353733a.jpg"></article>]]></description>
+            <link>http://www.independent.co.uk/news/world/europe/ttip-leak-could-spell-the-end-of-controversial-trade-deal-say-campaigners-a7009896.html</link>
+            <guid isPermaLink="false">0e0b1f52-d6b1-457e-926f-61da122f1b95</guid>
+            <pubDate>Tue, 03 May 2016 08:50:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/93fd58cb-fe2c-4dcd-8445-0066944b726c.jpg">]]></description>
-            <link>undefinedhi-my-name-is-charlie-fraser-and-this-is-my-blog-about-tryin/index.html</link>
+            <link>https://thegrid.ai/charlesfraser/hi-my-name-is-charlie-fraser-and-this-is-my-blog-about-tryin/index.html</link>
             <guid isPermaLink="false">35797cc1-69ff-4f06-8808-f1f88077a7db</guid>
             <pubDate>Tue, 03 May 2016 08:40:10 GMT</pubDate>
         </item>
